@@ -1,0 +1,35 @@
+{
+    "jokes": [
+        {
+            "id": 1,
+            "question": "Whos there?",
+            "answer": "Jarrett"
+        },
+        {
+            "id": 2,
+            "question": "why can;t a penguin flap their wings",
+            "answer": "They don't have feathers :)"
+        },
+        {
+            "id": 3,
+            "question": "Why are mushrooms great at parties",
+            "answer": "Because they are fungui"
+        },
+        {
+            "id": 4,
+            "question": "Why did the math book look sad?",
+            "answer": "Because it had too many problems."
+        },
+        {
+            "id": 5,
+            "question": "Why did the golfer bring two pairs of pants?",
+            "answer": "In case he got a hole in one!"
+        },
+        {
+            "id": 6,
+            "question": "What do you call a fish with no eyes?",
+            "answer": "Fsh!"
+        }
+    ]
+}
+
